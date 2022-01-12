@@ -1,3 +1,5 @@
+//Exemplo de classes e herança de classes em JS.
+
 class Cliente{
     constructor(nome, email, cpf, saldo){
         this.nome = nome;
